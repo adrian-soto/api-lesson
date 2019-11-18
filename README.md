@@ -13,7 +13,7 @@ This is a lesson on how to request data from an API using Python. This lesson us
 
 4. After completing the warmup exercise, open the file `02-api-demo.ipynb` to continue the exercise. Before beginning this step, make sure you have your Yelp API Key at hand.
 
-5. Once you're finished, if you want to explore on your own, you can use the file called `03-self-practice.ipynb`.
+5. Once you're finished, if you want to explore on your own, you can use the file called `03-self-exploration.ipynb`.
 
 
 ## Developer area
