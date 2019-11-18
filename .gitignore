@@ -1,0 +1,7 @@
+# private directory
+private/
+
+# CSV files
+*.csv
+
+
